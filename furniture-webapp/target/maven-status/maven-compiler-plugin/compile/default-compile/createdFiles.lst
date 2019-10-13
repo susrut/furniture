@@ -1,0 +1,3 @@
+flipkart\webapp\controller\HelloWorldController.class
+flipkart\webapp\config\JacksonJaxbJsonProviderConfig.class
+flipkart\webapp\config\WebConfig.class
